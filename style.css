@@ -1,0 +1,21 @@
+.container{
+    align-items: center;
+}
+.title{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 210px;
+    color: blue;
+    border: solid black 2px;
+}
+input[type="button"]{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.575);
+    border: solid black 2px;
+    width: 100%;
+}
+input[type="text"]{
+    background-color: aquamarine;
+    border : solid black 2px;
+    width: 100%;
+}
